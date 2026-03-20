@@ -1,6 +1,8 @@
 # Anty Framework
 
-> **v0.1.0** — AI Workforce plugin for Claude Code
+[![release](https://img.shields.io/badge/release-v0.1.0-blue)](https://github.com/masterleopold/anty-framework/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/masterleopold/anty-framework)](https://github.com/masterleopold/anty-framework/stargazers) [![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-blueviolet)](https://docs.anthropic.com/en/docs/claude-code) [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink)](https://github.com/sponsors/masterleopold)
+
+> Your AI co-worker for startup sales & marketing — powered by Claude Code.
 
 A Claude Code plugin that gives startup founders a proactive AI co-worker for sales & marketing. Anty doesn't wait for instructions — it analyzes your situation, plans strategy, proposes actions, and executes with graduated autonomy.
 
