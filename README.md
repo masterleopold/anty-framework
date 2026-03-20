@@ -25,7 +25,7 @@ Anty is an AI workforce agent that operates as your S&M (Sales & Marketing) team
 
 ```bash
 # Clone the framework
-git clone https://github.com/4n7y/anty-framework.git
+git clone https://github.com/masterleopold/anty-framework.git
 
 # Launch Claude Code with the plugin
 claude --plugin-dir ./anty-framework
