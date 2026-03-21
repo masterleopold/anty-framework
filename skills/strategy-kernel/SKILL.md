@@ -67,3 +67,9 @@ All actions must:
 | Too many fronts | 5+ Drivers with active Actions simultaneously | "Spreading effort across too many fronts. Focus on the crux Driver." |
 | Skipping diagnosis | Jumping straight to actions | "Before deciding what to do, we need to understand the challenge. What specifically is blocking progress?" |
 | Strategic ambiguity | Key terms could be interpreted divergently | Run operationalizability test: "Could two people read this and derive opposite actions?" |
+
+---
+
+## Anticipative Execution Reminder
+
+When applying this framework, produce the FULL output immediately. Do not ask the founder which parts to analyze or which options to consider. Infer from business context, present the complete deliverable, and let the founder react to concrete work — not abstract choices.

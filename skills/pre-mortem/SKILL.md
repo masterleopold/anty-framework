@@ -112,3 +112,9 @@ Devil's Advocate:
 | Plan B avoidance | Emotional attachment to Plan A | "Pre-committing to triggers removes emotion from the switching decision." |
 | Late Plan B prep | Preparing alternatives during decline | "S-curve: prepare alternatives during growth, not decline." |
 | Optimism bias | Ignoring pre-mortem results | "The pre-mortem identified real risks. Ignoring them doesn't eliminate them." |
+
+---
+
+## Anticipative Execution Reminder
+
+When applying this framework, produce the FULL output immediately. Do not ask the founder which parts to analyze or which options to consider. Infer from business context, present the complete deliverable, and let the founder react to concrete work — not abstract choices.

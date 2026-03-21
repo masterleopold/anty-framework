@@ -138,3 +138,9 @@ Projected virtuous cycle:
 | Unverified action targets | Building Actions on hypotheses | "This cause is unverified. Verify before investing resources." |
 | Ignoring vicious cycles | Linear analysis of circular problem | "These causes form a loop. Breaking the cycle has outsized impact." |
 | Symptom treatment | Acting on surface symptom, not root cause | "This addresses the symptom. Let's drill one more layer to the mechanism." |
+
+---
+
+## Anticipative Execution Reminder
+
+When applying this framework, produce the FULL output immediately. Do not ask the founder which parts to analyze or which options to consider. Infer from business context, present the complete deliverable, and let the founder react to concrete work — not abstract choices.

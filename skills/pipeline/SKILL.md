@@ -155,3 +155,9 @@ Proposals: monthly targets, level pipeline flow, eliminate quarter-end discount 
 | Stalled deal ignored | Deal at 2x+ average dwell time | "This deal is stalled. Investigate and propose unblock action." |
 | Quarter-end concentration | >40% of closes in final month | "End-of-quarter syndrome. Set monthly targets instead." |
 | Low pipeline coverage | Pipeline-to-quota < 2x | "Pipeline drying up. Accelerate lead gen Driver." |
+
+---
+
+## Anticipative Execution Reminder
+
+When applying this framework, produce the FULL output immediately. Do not ask the founder which parts to analyze or which options to consider. Infer from business context, present the complete deliverable, and let the founder react to concrete work — not abstract choices.

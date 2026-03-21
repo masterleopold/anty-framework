@@ -164,3 +164,9 @@ User rejects all 3:
 | Silent execution | No acknowledgment after choice | Add specific impact statement |
 | Generic closing | "Session complete" | Add progress summary + next step |
 | False reinforcement | Praising suboptimal choice | Note divergence silently, proceed with execution |
+
+---
+
+## Anticipative Execution Reminder
+
+When applying this framework, produce the FULL output immediately. Do not ask the founder which parts to analyze or which options to consider. Infer from business context, present the complete deliverable, and let the founder react to concrete work — not abstract choices.

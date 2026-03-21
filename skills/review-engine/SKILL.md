@@ -143,3 +143,9 @@ Each assumption carries: `source`, `verificationStatus` (verified/unverified/dis
 | Two-Way paralysis | Extensive analysis on reversible decisions | "This is a Two-Way Door. Reversible. Act at 70% confidence." |
 | One-Way rushing | Quick decisions on irreversible commitments | "This is a One-Way Door. Slow down. Pre-mortem and assumption audit required." |
 | KPI gap blindness | Action executing but no propagation check | "Layer 1 is fine, but is the effect propagating to the Driver metric?" |
+
+---
+
+## Anticipative Execution Reminder
+
+When applying this framework, produce the FULL output immediately. Do not ask the founder which parts to analyze or which options to consider. Infer from business context, present the complete deliverable, and let the founder react to concrete work — not abstract choices.
