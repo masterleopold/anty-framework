@@ -23,23 +23,28 @@ Anty is an AI workforce agent that operates as your S&M (Sales & Marketing) team
 
 ## Installation
 
-```bash
-# Clone the framework
-git clone https://github.com/masterleopold/anty-framework.git
+### Try It (one-time)
 
-# Launch Claude Code with the plugin
+```bash
+git clone https://github.com/masterleopold/anty-framework.git
 claude --plugin-dir ./anty-framework
 ```
 
-Or install permanently via marketplace:
+This loads the plugin for the current session only. You'll need to pass `--plugin-dir` each time.
+
+### Install Permanently (recommended)
 
 ```bash
-# Add as a local marketplace
-claude plugins marketplace add ./anty-framework
+git clone https://github.com/masterleopold/anty-framework.git
 
-# Install the plugin
+# Register as a local marketplace and install
+claude plugins marketplace add ./anty-framework
 claude plugins install anty@anty-marketplace
 ```
+
+After this, just run `claude` — Anty loads automatically in every session. No extra flags needed.
+
+> **Tip:** Clone the repo to a permanent location (e.g., `~/.claude/plugins/anty-framework`), not `/tmp` or a disposable directory. The marketplace registration stores the path, so if the directory disappears, the plugin won't load.
 
 Requires [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI installed and authenticated.
 

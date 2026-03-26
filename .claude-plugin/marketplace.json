@@ -1,0 +1,17 @@
+{
+  "name": "anty-marketplace",
+  "description": "Anty AI Workforce Plugin for startup founders",
+  "owner": {
+    "name": "4n7y",
+    "url": "https://4n7y.com"
+  },
+  "plugins": [
+    {
+      "name": "anty",
+      "description": "AI Workforce for startup founders — proactive S&M strategy, planning, and execution",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://4n7y.com"
+    }
+  ]
+}
